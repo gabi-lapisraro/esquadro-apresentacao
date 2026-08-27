@@ -2,7 +2,7 @@
 
 A apresentação de pitch do plugin ESQUADЯO, em três formatos: página web,
 PDF e PPTX. Antes vivia dentro do repositório do plugin
-([`esquadro-photoshop`](https://github.com/gabriellafelisberto-art/esquadro-photoshop)) —
+([`esquadro-photoshop`](https://github.com/gabi-lapisraro/esquadro-photoshop)) —
 saiu de lá porque não é engenharia do plugin, é material de conversa interna.
 
 **`docs/apresentacao.html` é a fonte.** PDF e PPTX são traduções dele, feitas
