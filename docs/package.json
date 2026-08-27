@@ -1,0 +1,11 @@
+{
+  "name": "esquadro-apresentacao-pptx",
+  "private": true,
+  "description": "Gerador da apresentação do ESQUADЯO em PPTX.",
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  },
+  "scripts": {
+    "build": "node gerar-pptx.js"
+  }
+}

@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+
+# Gerados pelos scripts. Binário sem diff, cada regeração seria uma cópia
+# inteira nova no histórico. Compartilhe o arquivo pronto, não o commit.
+docs/ESQUADRO-apresentacao.pdf
+docs/ESQUADRO-apresentacao.pptx
